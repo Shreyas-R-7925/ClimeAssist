@@ -1,6 +1,22 @@
-.outside{
-  background-color: orange;
+
+body{
+  background: linear-gradient(45deg, orange, pink);
 }
-.inside{
-  background-color: lightblue;
+
+.header{
+  margin: 5% 25% 3% 25%;
+}
+
+.clime{
+  color:black;
+  font-family: monospace;
+  font-weight: bolder;
+  text-align: center;
+}
+.row{
+  padding-left: 30%;
+}
+
+.ftr{
+  padding: 5% 44% 3% 43%;
 }
