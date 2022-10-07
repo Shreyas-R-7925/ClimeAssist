@@ -18,5 +18,7 @@ body{
 }
 
 .ftr{
-  padding: 5% 44% 3% 43%;
+  /* margin: 5% 40% 3% 40%; */
+  padding-top: 5%;
+  text-align: center;
 }
